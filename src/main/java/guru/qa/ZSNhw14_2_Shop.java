@@ -13,7 +13,7 @@ public class ZSNhw14_2_Shop {
             avacado.salesProduct(countwant);
         }
         else {
-            System.out.println("Не хватает денег");
+            System.out.println("Не хватает денег для покупки");
         }
         avacado.aboutProducts();
     }
